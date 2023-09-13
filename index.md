@@ -6,10 +6,8 @@ Alberto Parmiggiani, Emilio Ottonello, Seyyed Masoud Kargar, Mario Baggetta, Gua
 
 ### Links
 
-##### [Source files](https://github.com/made-iit/deltaflex) - [Preprint]() - [Paper]() - [Bibtex]()
-
-
-[TODO: fix links]
+##### [Source files](https://github.com/made-iit/deltaflex) - [Preprint](https://github.com/made-iit/deltaflex/raw/main/media/preprint_deltaflex.pdf) - [Paper]()* - [Bibtex](https://github.com/made-iit/deltaflex/raw/main/media/bibtex.bib)
+*[TODO: add paper link when available online] 
 
 ### Abstract
 
