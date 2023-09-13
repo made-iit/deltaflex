@@ -2,7 +2,9 @@
 
 Alberto Parmiggiani, Emilio Ottonello, Seyyed Masoud Kargar, Mario Baggetta, Guangbo Hao, Giovanni Berselli
 
-[TODO: add video here]
+<video width=100% controls>
+  <source src="https://raw.githubusercontent.com/made-iit/deltaflex/main/media/video_deltaflex.mp4" type="video/mp4">
+</video>
 
 ### Links
 
