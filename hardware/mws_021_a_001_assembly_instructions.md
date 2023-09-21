@@ -25,7 +25,7 @@ Leave the belt "free".
 ![](./assembly_illustrations/illustration_08_actuator_groups_on_base.png)
 1. Finally mount the *DeltaFlex* mechanism on the support structure
 ![](./assembly_illustrations/illustration_09_main_robot_assembly.png)
-When doing so take care to route the cables of the limit switches through their deignated path through the centre of the central support part to the driving electronics
+When doing so take care to route the cables of the limit switches through their designated path through the centre of the central support part to the driving electronics
 1. attach the belt end to the driven pulley
 1. tighten the belt appropriately by screwing the tensioning screws
 1. if the timing belt is too long remove a few teeth and repeat the belt tensioning step
