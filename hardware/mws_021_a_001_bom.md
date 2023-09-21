@@ -15,6 +15,17 @@ Note: please beware that the codes for fasteners (`FAST`) derive for our fastene
 
 All plastic custom components were manufactured in Selective Laser Sintering (SLS) on a 3D Systems ProX SLS 6100 additive manufacturing unit in DuraformPA.
 
+## Manufacturing the cover
+
+The cover parts are not strictly necessary for the proper functioning of the robot and can be omitted.
+The parts in question are: 
+
+- `MWS_021_P_007`
+- `MWS_021_P_008`
+- `MWS_021_P_011`
+- `MWS_021_P_010`
+- `MWS_021_P_012`
+- `MWS_021_P_014`
 
 ## BREAKDOWN
 
